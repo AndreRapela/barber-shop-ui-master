@@ -29,7 +29,7 @@
     </td>
     <td colspan="3">
     <p>🎉 3y+ em desenvolvimento Backend Java.
-    👨‍💻 Foco em back-ends
+    👨‍💻 FullStack developer
     </p>
       <a 
       href="https://www.linkedin.com/in/andrerapela/" 
